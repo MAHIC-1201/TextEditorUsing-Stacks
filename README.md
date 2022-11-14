@@ -1,5 +1,7 @@
 # TextEditorUsing-Stacks
 This project consists of a simple and novel way by which we have implemented a text editor application using a 2 Stack Model.
+
+
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/98683515/201733503-87a12bcd-c0a4-4464-87b7-36ae8ac9fdb0.png">
 
 
